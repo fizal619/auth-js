@@ -9,13 +9,13 @@ An isomorphic JavaScript client library for the [Supabase Auth](https://github.c
 
 ## Quick start
 
-Install
+### Install
 
 ```bash
 npm install --save @supabase/auth-js
 ```
 
-Usage
+### Usage
 
 ```js
 import { AuthClient } from '@supabase/auth-js'
